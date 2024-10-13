@@ -1,0 +1,29 @@
+{
+  "name": "danielscc-dark",
+  "displayName": "danielscc dark",
+  "description": "danielscc c# dark theme",
+  "version": "0.0.1",
+  "publisher": "danielscc",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "kerywords": [
+    "danielscc",
+    "simple dark c#",
+    "simple dark x visual studio 2019",
+    "simple dark c# danielscc",
+    "simple dark visual studio 2019"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "danielscc dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/danielscc dark-color-theme.json"
+      }
+    ]
+  }
+}
